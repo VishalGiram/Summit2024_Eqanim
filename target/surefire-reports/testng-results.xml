@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome launched]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-26T18:19:46 IST" name="Suite" finished-at="2024-08-26T18:19:53 IST" duration-ms="7270">
+    <groups>
+    </groups>
+    <test started-at="2024-08-26T18:19:46 IST" name="Test" finished-at="2024-08-26T18:19:53 IST" duration-ms="7270">
+      <class name="tests.Testclass1">
+        <test-method signature="start()[pri:0, instance:tests.Testclass1@3e3047e6]" started-at="2024-08-26T18:19:46 IST" name="start" finished-at="2024-08-26T18:19:53 IST" duration-ms="7087" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- tests.Testclass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

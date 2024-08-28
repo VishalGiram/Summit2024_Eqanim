@@ -1,0 +1,16 @@
+com\gurock\testrail\APIClient.class
+resources\WebEventListener.class
+analyzer\MyTransformer.class
+com\gurock\testrail\APIException.class
+resources\EmailMethods.class
+analyzer\RetryAnalyzer.class
+com\qa\testrailmanager\TestRailManager.class
+resources\commonLib.class
+resources\EmailMethods$1.class
+resources\ExtentReporterNG.class
+resources\WaitStatementLib.class
+resources\Common_Methods.class
+resources\SuiteListener.class
+resources\ObjectRepo.class
+constants\ThreadConstants.class
+resources\listeners.class
