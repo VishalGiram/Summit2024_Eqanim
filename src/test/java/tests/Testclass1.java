@@ -15,7 +15,7 @@ import pages.POMCLass;
 public class Testclass1 {
 
 	@Test
-	public void start() throws JsonProcessingException {
+	public void startgitHub() throws JsonProcessingException {
 		POMCLass ref = new POMCLass();
 		ref.clickOnPoliticsElement();
 		ref.clickOnSlickSlideControl10();
